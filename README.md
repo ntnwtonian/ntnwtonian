@@ -2,7 +2,7 @@ $$G_{\mu\nu} = 8\pi T_{\mu\nu}$$
 # Hi, I'm Ryan 
 ---
 
-##About Me
+## About Me
 * Sophomore undergraduate student
 * Physics & Mathematics double major
   
