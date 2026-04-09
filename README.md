@@ -1,4 +1,4 @@
-\large{$$G_{\mu\nu} = 8\pi T_{\mu\nu}$$}
+$$G_{\mu\nu} = 8\pi T_{\mu\nu}$$
 # Hi, I'm Ryan 
 ---
 
