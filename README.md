@@ -33,3 +33,8 @@ $$G_{\mu\nu} = 8\pi T_{\mu\nu}$$
 
 ---
 
+## Something Else Important
+* Don't *UNBOXING* me!
+* My favorate food is Yokohama lekei Ramen.
+* I love matcha jasmine milktea from Molly Tea.
+* My favorate novels are *The King's Avatar*, *Hui Tian* and *Case File Compendium*.
