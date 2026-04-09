@@ -19,7 +19,7 @@ $$
 * [General Relativity Notes](https://github.com/ntnwtonian/General-Relativity)
 * [Classical Field Theory Notes](https://github.com/ntnwtonian/Classical-Field-Theorys)
 * [Cosmology Notes](https://github.com/ntnwtonian/Cosmetology-without-ET)
-Upcoming...
+* Upcoming...
 
 ---
 
