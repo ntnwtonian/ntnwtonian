@@ -1,5 +1,5 @@
 $$G_{\mu\nu} = 8\pi T_{\mu\nu}$$
-# Hi, I'm Ryan 
+# Hi, I'm Ntnwtonian/22f
 ---
 
 ## About Me
