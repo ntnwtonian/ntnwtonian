@@ -1,17 +1,19 @@
-$$
-G_{\mu\nu} = 8\pi T_{\mu\nu}
-$$
+\large{$$G_{\mu\nu} = 8\pi T_{\mu\nu}$$}
 # Hi, I'm Ryan 
-
 ---
 
+##About Me
+* Sophomore undergraduate student
+* Physics & Mathematics double major
+  
+---
 ## Interests
 
 * General Relativity
 * Thereotical Cosmology
 * Quantum Field Theory
 * Geometry and symmetry in physics
-
+* Maybe also something else!
 ---
 
 ## Notes
@@ -19,7 +21,7 @@ $$
 * [General Relativity Notes](https://github.com/ntnwtonian/General-Relativity)
 * [Classical Field Theory Notes](https://github.com/ntnwtonian/Classical-Field-Theorys)
 * [Cosmology Notes](https://github.com/ntnwtonian/Cosmetology-without-ET)
-* Upcoming...
+* Upcoming... (QFT learning in progress)
 
 ---
 
