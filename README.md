@@ -28,7 +28,7 @@ $$G_{\mu\nu} = 8\pi T_{\mu\nu}$$
 ## What I'm Working on
 
 * Einstein–Cartan theory
-* Jet simulation (PYTHIA + FastJet)
+* [Jet simulation (PYTHIA + FastJet)](https://github.com/ntnwtonian/Jets-Research-Project)
 * (Start from May 2026) Topological Cosmology
 
 ---
