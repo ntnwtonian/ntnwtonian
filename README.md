@@ -3,8 +3,8 @@ $$G_{\mu\nu} = 8\pi T_{\mu\nu}$$
 ---
 
 ## About Me
-* Sophomore undergraduate student
-* Physics & Mathematics double major
+* Rising Junior undergraduate student
+* Physics & Mathematics majors
   
 ---
 ## Interests
@@ -28,7 +28,7 @@ $$G_{\mu\nu} = 8\pi T_{\mu\nu}$$
 ## What I'm Working on
 
 * [Einstein–Cartan theory](https://github.com/ntnwtonian/General-Relativity)
-* [Jet simulation (PYTHIA + FastJet)](https://github.com/ntnwtonian/Jets-Research-Project)
+* [Topological Cosmology] Summer 2026
 
 ---
 
