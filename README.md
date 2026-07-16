@@ -18,9 +18,9 @@ $$G_{\mu\nu} = 8\pi T_{\mu\nu}$$
 
 ## Notes
 
-* [General Relativity Notes](https://github.com/ntnwtonian/General-Relativity)
-* [Field Theory Notes](https://github.com/ntnwtonian/Field-Theory)
-* [Cosmology Notes](https://github.com/ntnwtonian/Cosmetology-without-ET)
+* [General Relativity Notes(2025-2026)](https://github.com/ntnwtonian/General-Relativity)
+* [Field Theory Notes(2026)](https://github.com/ntnwtonian/Field-Theory)
+* [Cosmology Notes(2025)](https://github.com/ntnwtonian/Cosmetology-without-ET)
 * Upcoming...
 
 ---
